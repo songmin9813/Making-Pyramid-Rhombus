@@ -1,0 +1,4 @@
+﻿  source.c
+C:\Users\mitha\source\repos\MakingPyramid\MakingPyramid\source.c(15,22): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\mitha\source\repos\MakingPyramid\MakingPyramid\source.c(26,6): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  MakingPyramid.vcxproj -> C:\Users\mitha\source\repos\MakingPyramid\Debug\MakingPyramid.exe
