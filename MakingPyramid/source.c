@@ -25,7 +25,15 @@ int main()
 	}
 	free(Array);
 	printf("\n");
-
+	//other version
+	for (i = 0; i < line; i++){
+		for (z = 0; z < line - (i + 1); z++)
+			printf(" ");
+		for (z = 0; z < 2 * (i + 1) - 1; z++)
+			printf("%d", i + 1);
+		printf("\n");
+	}
+	printf("\n");
 	//Making Rhombus
 	for (i = 0; i < line; i++){
 		for (z = 0; z < line - (i + 1); z++)
